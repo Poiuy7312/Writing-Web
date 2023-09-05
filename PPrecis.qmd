@@ -1,0 +1,25 @@
+---
+title: "Proffesional Precis"
+format: html
+---
+
+## SE1 Programming Overtime
+
+The difference between software engineering and programming is really professionalism and
+consistency ultimetly software engineering can be defined as programming integrated overtime.
+What can someone do to make a code sustainable and improve upon in the future what are some
+tools that can be used to make something more efficient all of this is software engineering.
+There are three things to take into account according to The section [Programming Overtime](https://abseil.io/resources/swe-book/html/pr01.html#programming_over_time)
+in the book Software Engineering at Google.
+
+- How the code will need to be changed over its life time
+
+- How you will have to adapt as things change and evolve
+
+- Take into account Time change Scale and growth when making a decision.
+
+I belive this way of thinking is not only beneficial to Chasten but almost any software
+engineering project in general because at the end of the day all its saying is expect things
+to change. And how you need to make decisions which means you may not be able to do everthing
+you wanted to which I feel should be somewhat expected alot of the time.
+
